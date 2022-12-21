@@ -17,7 +17,7 @@ from tensorflow.python.framework import graph_util
 from tensorflow.python.framework import tensor_shape
 from tensorflow.python.platform import gfile
 from tensorflow.python.util import compat
-#new functions
+
 # module level variables ##############################################################################################
 MIN_NUM_IMAGES_REQUIRED_FOR_TRAINING = 10
 MIN_NUM_IMAGES_SUGGESTED_FOR_TRAINING = 100
